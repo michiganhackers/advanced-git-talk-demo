@@ -3,7 +3,7 @@
 using namespace std;
 
 // Class Declaration
-class person
+class Person
 {
 //Access - Specifier
 public:
@@ -17,17 +17,17 @@ public:
 int main()
 {
     // Object Creation For Class
-    person obj;
+    Person obj;
 
-    //Get Input Values For Object Varibales
-    cout<<"Enter the person's name: ";
+    //Get the Damn Input Values For Object Varibales
+    cout<<"Enter the asshole person's name: ";
     cin>>obj.name;
 
-    cout<<"Enter their age: ";
+    cout<<"Enter their shitty age: ";
     cin>>obj.number;
 
-    //Show the Output
-    cout << obj.name << " is " << obj.number << " years old!\n";
+    //Show the Fucking Output
+    cout << "Holy shit! " << obj.name << " is " << obj.number << " years old!\n";
 
     return 0;
 }
