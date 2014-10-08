@@ -2,8 +2,8 @@
 #include <iostream>
 using namespace std;
 
-// Class Declaration
-class Person
+// Clbutt Declaration
+clbutt Person
 {
 //Access - Specifier
 public:
@@ -16,18 +16,18 @@ public:
 //Main Function
 int main()
 {
-    // Object Creation For Class
+    // Object Creation For Clbutt
     Person obj;
 
-    //Get the Damn Input Values For Object Varibales
-    cout<<"Enter the asshole person's name: ";
+    //Get the Darn Input Values For Object Varibales
+    cout<<"Enter the butthole person's name: ";
     cin>>obj.name;
 
-    cout<<"Enter their shitty age: ";
+    cout<<"Enter their poopy age: ";
     cin>>obj.number;
 
-    //Show the Fucking Output
-    cout << "Holy shit! " << obj.name << " is " << obj.number << " years old!\n";
+    //Show the Freaking Output
+    cout << "Holy poop! " << obj.name << " is " << obj.number << " years old!\n";
 
     return 0;
 }
